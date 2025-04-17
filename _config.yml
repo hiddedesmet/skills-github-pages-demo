@@ -1,1 +1,18 @@
+title: "My GitHub Pages Demo"
+description: "A demo site showcasing the power of GitHub Pages."
+author: "Hidde De Smet"
+
+# Minima theme settings
 theme: minima
+minima:
+  skin: dark
+  social_links:
+    twitter: https://twitter.com/yourhandle
+    github: https://github.com/yourhandle
+
+# Navigation links
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "Blog"
+    url: "/blog/"
