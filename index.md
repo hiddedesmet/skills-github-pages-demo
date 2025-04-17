@@ -1,11 +1,13 @@
----
-layout: default
-title: Home
----
-
 # 🌟 Welcome to My GitHub Pages Demo 🌟
 
 This is a **test page** created to showcase the power and simplicity of GitHub Pages.
+
+---
+
+## 🌐 Navigation
+
+- [About]({{ site.baseurl }}/about)
+- [Contact]({{ site.baseurl }}/contact)
 
 ---
 
